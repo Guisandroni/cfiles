@@ -4,9 +4,9 @@ int main (void) {
   { printf("informe o valor: \n");
   scanf ("%d", &n);
   if ( n >=0)
-  { if (n = 0) r = 0;
+  { if (n == 0) r = 0;
    else 
-    if (n = 1) r = 1;
+    if (n == 1) r = 1;
     else {
        c = 2 ; x1=1 ; x2=0;
        while (c <= n)
@@ -17,5 +17,6 @@ int main (void) {
        }
        }
        }
+       
     return 0 ;
 }
