@@ -1,0 +1,54 @@
+body {
+	font: 100%/normal Verdana, Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; text-align: center; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+.VisualizationMainPage #mainContent {
+	background: rgb(255, 255, 255);
+}
+.VisualizationMainPage #container {
+	background: rgb(255, 255, 255); text-align: left;
+}
+.VisualizationMainPage #algoControlSection {
+	background: rgb(221, 238, 221); color: rgb(0, 0, 0);
+}
+.VisualizationMainPage #generalAnimationControlSection {
+	background: rgb(221, 238, 221); color: rgb(0, 102, 0);
+}
+.VisualizationMainPage #header {
+	background: rgb(0, 102, 51); padding: 0px 10px 0px 20px; color: rgb(255, 204, 51);
+}
+.VisualizationMainPage #header a:visited {
+	color: rgb(255, 204, 51); text-decoration: none;
+}
+.VisualizationMainPage #header h1 {
+	margin: 0px; padding: 10px 0px;
+}
+.VisualizationMainPage #header a:link {
+	color: rgb(255, 204, 51); text-decoration: none;
+}
+.VisualizationMainPage #container {
+	background: rgb(255, 255, 255); margin: 0px auto; text-align: left;
+}
+.VisualizationMainPage #footer a:visited {
+	text-decoration: none;
+}
+.VisualizationMainPage #footer a:link {
+	color: rgb(255, 204, 51); text-decoration: none;
+}
+.VisualizationMainPage #mainContent h1 {
+	background: rgb(255, 255, 255); padding: 0px 20px; color: rgb(0, 102, 51);
+}
+.VisualizationMainPage #mainContent h2 {
+	background: rgb(255, 255, 255); padding: 0px 20px; color: rgb(0, 102, 51);
+}
+.VisualizationMainPage #mainContent h3 {
+	background: rgb(255, 255, 255); padding: 0px 20px; color: rgb(0, 102, 51);
+}
+.VisualizationMainPage #footer {
+	background: rgb(0, 102, 51); padding: 0px 10px; color: rgb(255, 204, 51);
+}
+.VisualizationMainPage #footer p {
+	margin: 0px; padding: 10px 0px;
+}
+em {
+	
+}

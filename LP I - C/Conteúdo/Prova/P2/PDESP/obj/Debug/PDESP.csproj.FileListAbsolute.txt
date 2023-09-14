@@ -1,0 +1,55 @@
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\bin\Debug\PDESP.exe.config
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\bin\Debug\PDESP.exe
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\bin\Debug\PDESP.pdb
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\obj\Debug\PDESP.csprojResolveAssemblyReference.cache
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\obj\Debug\PDESP.frmPrincipal.resources
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\obj\Debug\PDESP.Properties.Resources.resources
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\obj\Debug\PDESP.csproj.GenerateResource.Cache
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\obj\Debug\PDESP.exe
+c:\users\0030481813011\documents\visual studio 2013\Projects\PDESP\PDESP\obj\Debug\PDESP.pdb
+E:\PDESP\PDESP\bin\Debug\PDESP.exe.config
+E:\PDESP\PDESP\obj\Debug\PDESP.exe
+E:\PDESP\PDESP\obj\Debug\PDESP.pdb
+E:\PDESP\PDESP\obj\Debug\PDESP.csprojResolveAssemblyReference.cache
+E:\PDESP\PDESP\obj\Debug\PDESP.frmPrincipal.resources
+E:\PDESP\PDESP\obj\Debug\PDESP.frmTipoDespesa.resources
+E:\PDESP\PDESP\obj\Debug\PDESP.Properties.Resources.resources
+E:\PDESP\PDESP\obj\Debug\PDESP.csproj.GenerateResource.Cache
+Q:\Denilse\PDESP\bin\Debug\PDESP.exe.config
+Q:\Denilse\PDESP\obj\Debug\PDESP.exe
+Q:\Denilse\PDESP\obj\Debug\PDESP.csprojResolveAssemblyReference.cache
+Q:\Denilse\PDESP\obj\Debug\PDESP.frmPrincipal.resources
+Q:\Denilse\PDESP\obj\Debug\PDESP.frmTipoDespesa.resources
+Q:\Denilse\PDESP\obj\Debug\PDESP.Properties.Resources.resources
+Q:\Denilse\PDESP\obj\Debug\PDESP.csproj.GenerateResource.Cache
+Q:\Denilse\PDESP\bin\Debug\PDESP.exe
+Q:\Denilse\PDESP\bin\Debug\PDESP.pdb
+Q:\Denilse\PDESP\obj\Debug\PDESP.pdb
+E:\PDESP\PDESP\bin\Debug\PDESP.exe
+E:\PDESP\PDESP\bin\Debug\PDESP.pdb
+E:\PDESP\PDESP\obj\Debug\PDESP.frmMembro.resources
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\bin\Debug\PDESP.exe.config
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\bin\Debug\PDESP.exe
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\bin\Debug\PDESP.pdb
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.csprojAssemblyReference.cache
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.frmPrincipal.resources
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.frmTipoDespesa.resources
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.frmMembro.resources
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.Properties.Resources.resources
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.csproj.GenerateResource.cache
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.csproj.CoreCompileInputs.cache
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.exe
+C:\Users\NINGUÉM\Documents\PDESP\PDESP\obj\Debug\PDESP.pdb
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\bin\Debug\PDESP.exe.config
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\bin\Debug\PDESP.exe
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\bin\Debug\PDESP.pdb
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.frmPrincipal.resources
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.frmTipoDespesa.resources
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.frmMembro.resources
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.csproj.GenerateResource.Cache
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.exe
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.pdb
+C:\Users\T-Gamer\Desktop\LP2 - Caio Pereira\PDESP\obj\Debug\PDESP.frmDespesa.resources

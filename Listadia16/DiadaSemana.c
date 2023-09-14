@@ -2,15 +2,14 @@
 #include <math.h>
 
 int main (){
-  int dia, mes , ano , s, a, diaSemana ,conta ;
-
+  int dia, mes, ano , s, a, diaSemana ,conta, mescont ;
   
   
   printf("Digite a data do seu aniversario (dd/mm/aa):\n ");
-  scanf("%d %d %d", &dia ,&mes ,&ano);
-  printf("você digitou os valores: %d %d %d\n", dia, mes, ano);
-  
- 
+  scanf("%d %d %d", &dia ,&mescont ,&ano);
+ // printf("você digitou a data: %d %d %d\n", dia, mes, ano);
+
+ mes = mescont;
  if (mes == 1){
   mes = 11;
  } else if (mes ==2 ){
@@ -37,11 +36,11 @@ int main (){
   mes = 10;
  } 
 
- printf("valor de mes atual %d\n", mes);
+ //printf("valor de mes atual %d\n", mes);
 
 conta = (2.6 * mes - 0.1);
 
- printf("o valor truncado agora é: %d \n",conta);
+ //printf("o valor truncado agora é: %d \n",conta);
  
  double c = trunc(conta);
  
@@ -49,28 +48,28 @@ conta = (2.6 * mes - 0.1);
  a = floor (a) ;
  s = ano / 100;
  s = trunc(s);
- printf("valor do a ano: %d\n", a);
+ //printf("valor do a ano: %d\n", a);
 
  diaSemana = c + dia + a + a/4 + s/4 - 2*s;
 diaSemana = diaSemana % 7;
- if (diaSemana < 0 ) {
+ if (diaSemana <= 0 ) {
     diaSemana = diaSemana + 7;
-  }
- printf("Valor do dia da semana: %d\n",diaSemana);
+  } 
+ //printf("Valor do dia da semana: %d\n",diaSemana);
 if (diaSemana == 0){
-  printf("O dia cairá em um domingo\n ");
+  printf("%d/%d/%d: Domingo\n ",dia ,mescont, ano);
 } else if (diaSemana == 1){
-  printf("O dia cairá em uma segunda\n ");
+  printf("%d/%d/%d: Segunda-Feira\n ",dia ,mescont, ano);
 }else if (diaSemana == 2){
-  printf("O dia cairá em uma terça\n ");
+  printf("%d/%d/%d: Terça-Feira\n ",dia ,mescont, ano);
 }else if (diaSemana == 3){
-  printf("O dia cairá em uma quarta\n ");
+  printf("%d/%d/%d: Quarta-Feira\n ",dia ,mescont, ano);
 }else if (diaSemana == 4){
-  printf("O dia cairá em uma quinta\n ");
+  printf("%d/%d/%d: Quinta-Feira\n ",dia ,mescont, ano);
 }else if (diaSemana == 5){
-  printf("O dia cairá em uma sexta\n ");
+  printf("%d/%d/%d: Sexta-Feira\n ",dia ,mescont, ano);
 }else if (diaSemana == 6){
-  printf("O dia cairá em uma sabado\n ");
+  printf("%d/%d/%d: Sábado\n ",dia ,mescont, ano);
 }
 
 
